@@ -1,0 +1,2 @@
+rootProject.name='V24_ViewPager2'
+include ':app'
